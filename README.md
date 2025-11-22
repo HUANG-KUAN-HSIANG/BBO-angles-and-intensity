@@ -1,2 +1,2 @@
 # BBO-angles-and-intensity
-This simulation illustrates the dependence of output light intensity on the rotation angle of the BBO crystal.
+The simulation investigates the dependence of output light intensity on rotation about three distinct axes.
