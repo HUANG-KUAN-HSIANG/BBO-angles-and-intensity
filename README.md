@@ -1,2 +1,2 @@
 # BBO-angles-and-intensity
-The simulation investigates the dependence of output light intensity on rotation about three distinct axes.
+The purpose of this simulation is to analyze the variations in output intensity caused by rotating the BBO crystal along three orthogonal axes.
