@@ -1,2 +1,2 @@
 # BBO-angles-and-intensity
-The purpose of this simulation is to analyze the variations in output intensity caused by rotating the BBO crystal along three orthogonal axes.
+The purpose of this simulation is to analyze the variations in second harmonic genration intensity caused by rotating the BBO crystal along three orthogonal axes.
